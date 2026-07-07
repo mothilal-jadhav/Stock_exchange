@@ -34,7 +34,6 @@ build/
 
 # Milestone 0 - Project Setup
 
-making a project structure -> created 2 folders src and include. src contains all the cpp files where as include will contain its header files
-
 a main.cpp file which will be our main file we will run
+README.md file for the documentation
 
