@@ -25,7 +25,7 @@ build/
 
 ## Progress
 
-- Milestone 0 – Project Setup [ ] 
+- Milestone 0 – Project Setup [:white_check_mark:] 
 - Milestone 1 – Order Class [ ] 
 - Milestone 2 – Order Book [ ] 
 - Milestone 3 – Matching Engine [ ] 
@@ -37,3 +37,4 @@ build/
 a main.cpp file which will be our main file we will run
 README.md file for the documentation
 
+# Milestone 1 - Order Class
