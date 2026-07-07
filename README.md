@@ -22,9 +22,6 @@ docs/
 build/
 ```
 
-## Build
-
-Coming soon.
 
 ## Progress
 
@@ -34,3 +31,10 @@ Coming soon.
 - Milestone 3 – Matching Engine [ ] 
 - Milestone 4 – Trading Simulation [ ] 
 - Milestone 5 – Performance Optimization [ ] 
+
+# Milestone 0 - Project Setup
+
+making a project structure -> created 2 folders src and include. src contains all the cpp files where as include will contain its header files
+
+a main.cpp file which will be our main file we will run
+
